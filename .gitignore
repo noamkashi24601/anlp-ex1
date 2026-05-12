@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Training outputs
+output/
+runs/
+checkpoints/
+wandb/
+.cache/
+
+# Hugging Face cache
+.cache/huggingface/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
